@@ -13,14 +13,10 @@ This repository contains a Python script for generating QTI v2.1-compliant quiz 
 - Python 3.7 or higher
 
 ## Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/your-username/qti-quiz-generator.git
    cd qti-quiz-generator
-   ```
-2. Install any required Python libraries (if needed):
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
